@@ -1,6 +1,8 @@
 # galileo_appln
 sampleApplication
 
+Download the galileo_appln rar file  and extract the code .
+
 This Application in developed on angular  6 version.
 
 To run the Application need to install node mpdules please install node js in the machine and run the below command.
